@@ -61,3 +61,6 @@ This project is developed as an educational assignment and is not intended for c
 <br>
 <h2>Screenshot</h2>
 
+![Merlin-1](https://github.com/user-attachments/assets/a01e99a6-ceaf-4e7d-a730-04d70b4b4f35)
+![Merlin-2](https://github.com/user-attachments/assets/7ff4ba6d-1c72-4b1c-8f55-9857f7193014)
+![Merlin-3](https://github.com/user-attachments/assets/8580222f-8455-4985-891e-b25802ff5e51)
