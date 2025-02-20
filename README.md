@@ -35,9 +35,8 @@ This project was created by Mohammad Liyakat Ali as part of the Game Development
 <li><h3>Clone the repository:</h3></li>
 <ul>
   <li>git clone https://github.com/Leo-exe-24/Merlin-Demon-War-Card-Game-.git</li>
-  <li>Open the Build folder and just run the <b>Merlin's Demon War - Card Game.exe</b> and enjoy the game.</li>
-  <li>Open the project in Unity by adding the Source Files Folder into unity(recommended version: Unity 2021 or newer), If you want to edit or use the files.</li>
-  <li>Build and run the project</li>
+  <li>Open the Build folder</li>
+  <li>Run the <b>Merlin's Demon War - Card Game.exe</b> and enjoy the game.</li>
 </ul>  
 
 <li><h3>How to Play</h3></li>
